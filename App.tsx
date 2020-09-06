@@ -98,7 +98,7 @@ const App = () => {
   });
   return (
     <>
-      <StatusBar barStyle="dark-content" />
+      <StatusBar barStyle="light-content" />
       <SafeAreaView style={styles.safeArea}>
         <TabSectionList
           style={styles.sectionList}

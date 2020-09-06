@@ -15,6 +15,8 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* ReactNativeSectionListTabBarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactNativeSectionListTabBarTests.m */; };
+		30A6EAF0C139BD5F44560E5D /* libPods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 07714AE2D3EE34075FC0C4BD /* libPods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.a */; };
+		7794A5F1FB992D566AEDD7E0 /* libPods-ReactNativeSectionListTabBar.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C87BB794E81EA0DD9650F76D /* libPods-ReactNativeSectionListTabBar.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +42,8 @@
 		00E356EE1AD99517003FC87E /* ReactNativeSectionListTabBarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReactNativeSectionListTabBarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* ReactNativeSectionListTabBarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReactNativeSectionListTabBarTests.m; sourceTree = "<group>"; };
+		04A0B0B1222A423B47733F98 /* Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.debug.xcconfig"; sourceTree = "<group>"; };
+		07714AE2D3EE34075FC0C4BD /* libPods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07F961A680F5B00A75B9A /* ReactNativeSectionListTabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReactNativeSectionListTabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ReactNativeSectionListTabBar/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ReactNativeSectionListTabBar/AppDelegate.m; sourceTree = "<group>"; };
@@ -48,7 +52,11 @@
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ReactNativeSectionListTabBar/main.m; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* ReactNativeSectionListTabBar-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ReactNativeSectionListTabBar-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* ReactNativeSectionListTabBar-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ReactNativeSectionListTabBar-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C9DDDCB6CA3C6DA98B4B683 /* Pods-ReactNativeSectionListTabBar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeSectionListTabBar.debug.xcconfig"; path = "Target Support Files/Pods-ReactNativeSectionListTabBar/Pods-ReactNativeSectionListTabBar.debug.xcconfig"; sourceTree = "<group>"; };
+		55C7BE4EFAE1D10AE46B6F1C /* Pods-ReactNativeSectionListTabBar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeSectionListTabBar.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeSectionListTabBar/Pods-ReactNativeSectionListTabBar.release.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ReactNativeSectionListTabBar/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BED940C00702C8BA59CD5594 /* Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.release.xcconfig"; path = "Target Support Files/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.release.xcconfig"; sourceTree = "<group>"; };
+		C87BB794E81EA0DD9650F76D /* libPods-ReactNativeSectionListTabBar.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactNativeSectionListTabBar.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -58,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30A6EAF0C139BD5F44560E5D /* libPods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7794A5F1FB992D566AEDD7E0 /* libPods-ReactNativeSectionListTabBar.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -121,8 +131,22 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
+				C87BB794E81EA0DD9650F76D /* libPods-ReactNativeSectionListTabBar.a */,
+				07714AE2D3EE34075FC0C4BD /* libPods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5B1E3A5270E0B4349302D132 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4C9DDDCB6CA3C6DA98B4B683 /* Pods-ReactNativeSectionListTabBar.debug.xcconfig */,
+				55C7BE4EFAE1D10AE46B6F1C /* Pods-ReactNativeSectionListTabBar.release.xcconfig */,
+				04A0B0B1222A423B47733F98 /* Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.debug.xcconfig */,
+				BED940C00702C8BA59CD5594 /* Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -140,6 +164,7 @@
 				00E356EF1AD99517003FC87E /* ReactNativeSectionListTabBarTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				5B1E3A5270E0B4349302D132 /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -164,9 +189,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactNativeSectionListTabBarTests" */;
 			buildPhases = (
+				787EC5CE3033AC17D5668426 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
+				2C93C382724B22733D3E2297 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -182,11 +209,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactNativeSectionListTabBar" */;
 			buildPhases = (
+				6339A21F139C84C5A30AFB00 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				7D953DAB1E923B1AA6113739 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -330,6 +359,24 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
+		2C93C382724B22733D3E2297 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -343,6 +390,68 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+		};
+		6339A21F139C84C5A30AFB00 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ReactNativeSectionListTabBar-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		787EC5CE3033AC17D5668426 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7D953DAB1E923B1AA6113739 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ReactNativeSectionListTabBar/Pods-ReactNativeSectionListTabBar-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactNativeSectionListTabBar/Pods-ReactNativeSectionListTabBar-resources.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -437,6 +546,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 04A0B0B1222A423B47733F98 /* Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -459,6 +569,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BED940C00702C8BA59CD5594 /* Pods-ReactNativeSectionListTabBar-ReactNativeSectionListTabBarTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -478,6 +589,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4C9DDDCB6CA3C6DA98B4B683 /* Pods-ReactNativeSectionListTabBar.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -500,6 +612,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 55C7BE4EFAE1D10AE46B6F1C /* Pods-ReactNativeSectionListTabBar.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
