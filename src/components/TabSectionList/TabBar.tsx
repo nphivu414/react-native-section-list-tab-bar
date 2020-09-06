@@ -1,3 +1,5 @@
+// Refer from https://github.com/bogoslavskiy/react-native-tabs-section-list/blob/master/src/TabBar.tsx
+
 import * as React from 'react';
 import {
   View,
