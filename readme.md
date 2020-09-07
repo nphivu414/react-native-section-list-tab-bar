@@ -56,3 +56,10 @@ cd ..
 ```
 react-native run-ios
 ```
+
+### Try my React Native Food Delivery Template
+- [Download Food Star React Native Template](https://codecanyon.net/item/food-star-react-native-food-delivery-template/28398069).
+
+![preview](http://jcstudioz.com/wp-content/uploads/2014/09/01_preview.jpg?_c=1599373224)
+![preview](http://jcstudioz.com/wp-content/uploads/2014/09/02_preview.jpg?_c=1599373224)
+![preview](http://jcstudioz.com/wp-content/uploads/2014/09/03_preview.jpg?_c=1599373224)
